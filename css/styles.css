@@ -11695,6 +11695,9 @@ nav .container-fluid ul.navbar-nav li img.logo {
 nav .container-fluid .brand__name {
   font-size: 24px;
 }
+nav .container-fluid .toggler__logo {
+  width: 100px;
+}
 .toggle__btn .toggle__icon {
   font-size: 24px;
 }
